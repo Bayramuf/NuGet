@@ -1,4 +1,2 @@
 # NuGet
-Install PowershellGet and NuGet
-
-Install-PackageProvider 
+.\Create-LocalNugetRepository.ps1 -destinationDirectory c:\temp\nuget
